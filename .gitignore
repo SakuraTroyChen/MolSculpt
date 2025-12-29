@@ -1,0 +1,7 @@
+*.pyc
+*.pt
+*.ckpt
+*.txt
+*.csv
+*.yaml
+*.ipynb
